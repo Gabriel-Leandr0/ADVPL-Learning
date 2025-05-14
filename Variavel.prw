@@ -30,6 +30,5 @@ user function Variavel()
     // Executa o bloco de código
     Eval(bBloco)
 
-
 RETURN
 // End Function
