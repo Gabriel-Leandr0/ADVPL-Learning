@@ -1,0 +1,19 @@
+{
+    "totvsLanguageServer.welcomePage": false,
+    "totvsLanguageServer.editor.linter.includes": "Z:\\TOTVS\\Protheus\\include",
+    "advpl.environments": [
+        {
+            "environment": "DEV",
+            "name": "DEV",
+            "server": "localhost",
+            "port": "1257",
+            "serverVersion": "170117A",
+            "passwordCipher": "JfTdYeWP/M18rXBJzs1jRIDMA2xjLLWW5jic+E0teSRj49OfMKw27q29NZd4ARhUAACHzPVosfSkn5ub9XJAYWSR=",
+            "includeList": "z:\\TOTVS\\Protheus\\include\\",
+            "user": "admin",
+            "smartClientPath": "z:\\TOTVS\\Protheus\\bin\\smartclient\\",
+            "enable": true
+        }
+    ],
+    "advpl.selectedEnvironment": "DEV"
+}
